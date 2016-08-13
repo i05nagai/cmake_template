@@ -1,0 +1,16 @@
+#cmake
+/CmakeCache.txt
+/CmakeFiles
+/Makefile
+/cmake_install.cmake
+/tags
+/CTestTestfile.cmake
+/Testing
+*.Po
+.dirstamp
+
+/target_test
+/target2_test
+/lib*
+/submodule/*
+

@@ -1,0 +1,6 @@
+[submodule "submodule/boost/numeric/ublas"]
+	path = submodule/boost/numeric/ublas
+	url = https://github.com/boostorg/ublas.git
+[submodule "submodule/googletest"]
+	path = submodule/googletest
+	url = https://github.com/google/googletest.git
