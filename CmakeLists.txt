@@ -33,10 +33,10 @@ include_directories(
 )
 
 #inclue sources
-include(target.cmake)
-include(target2.cmake)
-include(target_test.cmake)
-include(target2_test.cmake)
+include(cmake/target.cmake)
+include(cmake/target2.cmake)
+include(cmake/target_test.cmake)
+include(cmake/target2_test.cmake)
 
 #add library
 add_library(target ${target_SOURCES})
