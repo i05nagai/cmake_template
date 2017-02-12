@@ -9,8 +9,5 @@
 *.Po
 .dirstamp
 
-/target_test
-/target2_test
 /lib*
-/submodule/*
 
